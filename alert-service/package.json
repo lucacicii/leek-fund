@@ -1,0 +1,14 @@
+{
+  "name": "leek-fund-alert",
+  "version": "1.0.0",
+  "description": "基金提醒服务",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "axios": "^1.6.2",
+    "dayjs": "^1.11.10"
+  }
+}
